@@ -15,6 +15,9 @@ I am a Principal Architect and Engineering Coach specializing in Web FE solution
 
 ----
 
+<br/>
+
+
 ### 🤝 Recent Projects:
 
 ![image](https://user-images.githubusercontent.com/210413/140201146-e78b56bc-fec7-4e43-ba1e-603061f5a759.png)
@@ -22,18 +25,21 @@ I am a Principal Architect and Engineering Coach specializing in Web FE solution
 
 
 <br/>
-
+<br/>
 
 ### 📝 Latest Blog Posts:
 
 [![image](https://user-images.githubusercontent.com/210413/140200140-05aa7e38-0018-4c88-bbdc-d97a2d79c5ca.png)](https://thomasburlesonia.medium.com/list/published-articles-e052412d4b56)
 
+<br/>
+<br/>
 
 ### 📝 Sample Workshop
 
-![image](https://user-images.githubusercontent.com/210413/140201759-4c50e837-48fd-4d1e-adff-f39dee2ae41b.png)
+![image](https://user-images.githubusercontent.com/210413/140206486-2bd35fc4-9b75-4123-a936-db1a1d57cf73.png)
 
 
+<br/>
 <br/>
 
 ### 🤝 Connect with me:
