@@ -1,10 +1,12 @@
 # thomasburleson
 Greetings!
 
-I am a Principal Architect and Engineering Coach specializing in Web FE solutions/technologies. For the last 20 years, I have helped teams develop and deliver commercial software solutions around the world:
-
 ![image](https://user-images.githubusercontent.com/210413/140199995-347f8c76-7780-461e-a650-ede6a12a67f1.png)
 
+I am a Principal Architect and Engineering Coach specializing in Web FE solutions/technologies. For the last 20 years, I have helped teams develop and deliver commercial software solutions around the world:
+
+
+<br/>
 
 ### 🤝 Connect with me:
 
@@ -12,6 +14,8 @@ I am a Principal Architect and Engineering Coach specializing in Web FE solution
 - LinkedIn: https://www.linkedin.com/in/thomasburleson
 - Resume: [Download PDF](https://github.com/ThomasBurleson/thomasburleson/files/7470965/ThomasBurleson.2021.pdf)
 
+<br/>
+<br/>
 
 
 ### 📝 Latest Blog posts
