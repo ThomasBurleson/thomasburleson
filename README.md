@@ -2,7 +2,7 @@
 
 ### About Me
 
-![image](https://user-images.githubusercontent.com/210413/140199995-347f8c76-7780-461e-a650-ede6a12a67f1.png)
+![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
 
 I am a Principal Architect and Engineering Coach specializing in Web FE solutions/technologies. For the last 20 years, I have helped teams develop and deliver commercial software solutions around the world. I like to say that I am a:
 
