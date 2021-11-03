@@ -20,7 +20,7 @@ I am a Principal Architect and Engineering Coach specializing in Web FE solution
 
 ### 🤝 Recent Projects:
 
-![image](https://user-images.githubusercontent.com/210413/140201146-e78b56bc-fec7-4e43-ba1e-603061f5a759.png)
+![image](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)
 
 
 
