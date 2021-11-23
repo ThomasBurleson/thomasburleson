@@ -8,8 +8,8 @@ Thomas Burleson is a **Principal Architect** and **Engineering Coach** specializ
 
 ![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
 
-----
 
+<br/>
 <br/>
 
 
