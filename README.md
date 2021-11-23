@@ -1,4 +1,4 @@
-I am a **Principal Architect** and **Engineering Coach** specializing in _Web_ solutions/technologies. For the last 20 years, I have helped teams develop and deliver commercial FE software solutions around the world. I describe myself as a:
+Thomas Burleson is a **Principal Architect** and **Engineering Coach** specializing in _Web_ solutions/technologies. For the last 20 years, he has helped teams develop and deliver commercial FE software solutions around the world. Self-described as a:
 
 * Architect who codes
 * Coach who creates content
