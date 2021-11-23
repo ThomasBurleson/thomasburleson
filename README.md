@@ -18,14 +18,17 @@ I am a **Principal Architect** and **Engineering Coach** specializing in _Web_ s
 
 ### 🤝 Recent Projects:
 
-![image](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)
+Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
 
+![image](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)
 
 
 <br/>
 <br/>
 
 ### 📝 Latest Blog Posts:
+
+Explore technical post on Reactive architectures. Learn about little-understood concepts like **Tuples** and **Observables**. These are great resources for Angular, React, and TypeScript developers.
 
 [![image](https://user-images.githubusercontent.com/210413/140200140-05aa7e38-0018-4c88-bbdc-d97a2d79c5ca.png)](https://thomasburlesonia.medium.com/list/published-articles-e052412d4b56)
 
