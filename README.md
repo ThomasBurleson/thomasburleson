@@ -1,8 +1,3 @@
-# Greetings!
-
-
-![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
-
 I am a **Principal Architect** and **Engineering Coach** specializing in _Web_ solutions/technologies. For the last 20 years, I have helped teams develop and deliver commercial FE software solutions around the world. I describe myself as a:
 
 * Architect who codes
@@ -10,6 +5,8 @@ I am a **Principal Architect** and **Engineering Coach** specializing in _Web_ s
 * Mentor who encourages collaboration
 * Dx Transformation expert 
 
+
+![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
 
 ----
 
