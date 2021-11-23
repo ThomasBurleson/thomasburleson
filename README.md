@@ -25,7 +25,7 @@ Thomas brings extensive experience and leadership lessons from projects that inc
 
 ### Latest Blog Posts:
 
-Explore technical post on Reactive architectures. Learn about little-understood concepts like **Tuples** and **Observables**. These are great resources for Angular, React, and TypeScript developers.
+Explore [technical posts](https://thomasburlesonia.medium.com/list/published-articles-e052412d4b56) on Reactive architectures. Learn about little-understood concepts like **Tuples** and **Observables**. These are great resources for Angular, React, and TypeScript developers.
 
 [![image](https://user-images.githubusercontent.com/210413/140200140-05aa7e38-0018-4c88-bbdc-d97a2d79c5ca.png)](https://thomasburlesonia.medium.com/list/published-articles-e052412d4b56)
 
