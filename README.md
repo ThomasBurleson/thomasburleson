@@ -32,6 +32,16 @@ I am a **Principal Architect** and **Engineering Coach** specializing in _Web_ s
 <br/>
 <br/>
 
+### Recent Presentation: "Reactive Architectures"
+
+This 5-part series for developers and architects called "Reactive Architectures". Presenting web developers with critical concepts, patterns, and techniques for superior product implementation & performance. Best of all, these concepts apply to FrontEnd and Backend development regardless of technology platform.
+
+[![image](https://user-images.githubusercontent.com/210413/143097443-1239e967-977e-4a81-82e8-f16033c73883.png)](https://slides.com/thomasburleson/reactive-solutions-part-1?token=MfaSzCdB)
+
+<br/>
+<br/>
+
+
 ### 📝 Sample Workshop
 
 ![image](https://user-images.githubusercontent.com/210413/140206486-2bd35fc4-9b75-4123-a936-db1a1d57cf73.png)
