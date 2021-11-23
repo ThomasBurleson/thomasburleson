@@ -46,7 +46,8 @@ This 5-part series for developers and architects called "Reactive Architectures"
 
 As an Engineering Coach, Thomas has trained Angular and React developers all around the world. Workshops consist of live seminars with extensive slides. The seminars are interleaved with guided, hands-on coding labs. Thomas has created more than 60 hours of live workshop content: covering Git Essentials, ES/TypeScript Essentials, Collaborating with Nx Workspaces, Angular/React Jumpstart, RxJS Deep Dives, and NgRx Deep Dive, and more.
 
-![image](https://user-images.githubusercontent.com/210413/143107279-a8a9a6a5-5566-4d24-8763-d585583421aa.png)
+[![image](https://user-images.githubusercontent.com/210413/143107279-a8a9a6a5-5566-4d24-8763-d585583421aa.png)](https://user-images.githubusercontent.com/210413/143111868-164819bf-3cbe-401d-b48f-326444b83a33.png)
+
 
 
 <br/>
