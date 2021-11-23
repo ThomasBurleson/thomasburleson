@@ -26,7 +26,7 @@ Thomas brings extensive experience and leadership lessons from projects that inc
 <br/>
 <br/>
 
-### 📝 Latest Blog Posts:
+### Latest Blog Posts:
 
 Explore technical post on Reactive architectures. Learn about little-understood concepts like **Tuples** and **Observables**. These are great resources for Angular, React, and TypeScript developers.
 
@@ -45,7 +45,9 @@ This 5-part series for developers and architects called "Reactive Architectures"
 <br/>
 
 
-### 📝 Sample Workshop
+### Sample Workshop
+
+As an Engineering Coach, Thomas has trained Angular and React developers all around the world. Workshops consist of live seminars with extensive slides. The seminars are interleaved with guided, hands-on coding labs. Over 60 hours of workshop cover Git Essentials, ES/TypeScript Essentials, Collaborating with Nx Workspaces, Angular/React Jumpstart, RxJS Deep Dives, and NgRx Deep Dive:
 
 ![image](https://user-images.githubusercontent.com/210413/140206486-2bd35fc4-9b75-4123-a936-db1a1d57cf73.png)
 
