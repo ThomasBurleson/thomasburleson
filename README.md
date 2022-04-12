@@ -1,4 +1,4 @@
-Thomas Burleson is a **Principal Architect** and **Engineering Coach** specializing in _Web_ solutions/technologies. For the last 20 years, he has helped teams around the world develop and deliver commercial front-end software solutions. Self-described as a:
+Thomas Burleson is a **Principal Architect** and **Engineering Trainer** specializing in _Web_ solutions/technologies. For the last 20 years, he has helped teams around the world develop and deliver commercial front-end software solutions. Self-described as a:
 
 * Architect who codes
 * Coach who creates content
