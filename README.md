@@ -4,6 +4,7 @@ Thomas Burleson is a **Principal Architect** and **Engineering Trainer** special
 * Coach who creates content
 * Mentor who encourages collaboration
 
+Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
 
 ![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
 
@@ -47,18 +48,6 @@ This 5-part series for developers and architects called "Reactive Architectures"
 As an Engineering Coach, Thomas has trained Angular and React developers all around the world. Workshops consist of live seminars with extensive slides. The seminars are interleaved with guided, hands-on coding labs. Thomas has created more than 60 hours of live workshop content: covering Git Essentials, ES/TypeScript Essentials, Collaborating with Nx Workspaces, Angular/React Jumpstart, RxJS Deep Dives, and NgRx Deep Dive, and more.
 
 [![image](https://user-images.githubusercontent.com/210413/143107279-a8a9a6a5-5566-4d24-8763-d585583421aa.png)](https://user-images.githubusercontent.com/210413/143112944-1f283489-0b40-4b2e-989f-6332ba00672c.png)
-
-
-
-
-<br/>
-<br/>
-
-### 🤝 Recent Projects:
-
-Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
-
-https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png
 
 
 <br/>
