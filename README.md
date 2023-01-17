@@ -1,9 +1,11 @@
-Thomas Burleson is a **Principal Architect** and **Engineering Trainer** specializing in _Web_ solutions/technologies. For the last 20 years, he has helped teams around the world develop and deliver commercial front-end software solutions. Self-described as a:
+Thomas Burleson is a **Principal Architect** and **Engineering Trainer** specializing in _Web_ solutions/technologies. For the last 20 years, he has helped teams around the world develop and deliver **commercial** front-end software solutions. Self-described as a:
 
 * FE Principal Architect... who loves hands-on coding
 * Coach who creates content
 * Mentor who encourages collaboration
 
+
+![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
 
 
 <br/>
@@ -63,9 +65,6 @@ https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b9
 <br/>
 
 ### 🤝 Connect with me:
-
-![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
-
 
 - Twitter: https://twitter.com/thomasburleson
 - LinkedIn: https://www.linkedin.com/in/thomasburleson
