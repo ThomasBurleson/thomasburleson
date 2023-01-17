@@ -1,12 +1,9 @@
 Thomas Burleson is a **Principal Architect** and **Engineering Trainer** specializing in _Web_ solutions/technologies. For the last 20 years, he has helped teams around the world develop and deliver commercial front-end software solutions. Self-described as a:
 
-* Architect who codes
+* FE Principal Architect... who loves hands-on coding
 * Coach who creates content
 * Mentor who encourages collaboration
-* Dx Transformation expert 
 
-
-![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
 
 
 <br/>
@@ -21,6 +18,7 @@ Thomas Burleson is a **Principal Architect** and **Engineering Trainer** special
 Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
 
 ![image](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)
+
 ![image](https://user-images.githubusercontent.com/210413/210111536-487fce9a-1e12-4ae1-853d-15ad50838515.png)
 
 <br/>
@@ -58,6 +56,9 @@ As an Engineering Coach, Thomas has trained Angular and React developers all aro
 <br/>
 
 ### 🤝 Connect with me:
+
+![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
+
 
 - Twitter: https://twitter.com/thomasburleson
 - LinkedIn: https://www.linkedin.com/in/thomasburleson
