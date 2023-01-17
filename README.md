@@ -11,7 +11,7 @@ Thomas Burleson is a **Principal Architect** and **Engineering Trainer** special
 
 ### 🚀 Reactive Store Repositories:
 
-https://user-images.githubusercontent.com/210413/212810796-c4813e12-d2a0-4b4d-8231-1f8907e287c4.png
+![](https://user-images.githubusercontent.com/210413/212810796-c4813e12-d2a0-4b4d-8231-1f8907e287c4.png)
 
 
 * [Reactive Store with Elf (Angular)](https://github.com/ThomasBurleson/elf-angular-movie-search)
