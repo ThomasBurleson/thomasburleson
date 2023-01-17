@@ -17,9 +17,12 @@ Thomas Burleson is a **Principal Architect** and **Engineering Trainer** special
 
 Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
 
-![image](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)
+* Reactive Store with Elf (Angular)
+  > ![](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)[
 
-![image](https://user-images.githubusercontent.com/210413/210111536-487fce9a-1e12-4ae1-853d-15ad50838515.png)
+* Reactive Store with Zustand (Angular)
+  > ![](https://user-images.githubusercontent.com/210413/210111536-487fce9a-1e12-4ae1-853d-15ad50838515.png)
+
 
 <br/>
 <br/>
