@@ -13,15 +13,16 @@ Thomas Burleson is a **Principal Architect** and **Engineering Trainer** special
 
 [![Elf + Angular](https://user-images.githubusercontent.com/210413/212772247-112e3802-94ac-4500-80b8-ae62d8342f7b.png)](https://github.com/ThomasBurleson/elf-angular-movie-search)
 
+* [Reactive Store with Elf (Angular)](https://github.com/ThomasBurleson/elf-angular-movie-search)
+  > [![](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)](https://github.com/ThomasBurleson/elf-angular-movie-search)
+
+* Reactive Store with Zustand (Angular)
+  > ![](https://user-images.githubusercontent.com/210413/210111536-487fce9a-1e12-4ae1-853d-15ad50838515.png)
+
 ### 🤝 Recent Projects:
 
 Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
 
-* Reactive Store with Elf (Angular)
-  > ![](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)[
-
-* Reactive Store with Zustand (Angular)
-  > ![](https://user-images.githubusercontent.com/210413/210111536-487fce9a-1e12-4ae1-853d-15ad50838515.png)
 
 
 <br/>
