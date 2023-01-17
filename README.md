@@ -11,19 +11,12 @@ Thomas Burleson is a **Principal Architect** and **Engineering Trainer** special
 
 ### 🚀 Reactive Store Repositories:
 
-[![Elf + Angular](https://user-images.githubusercontent.com/210413/212772247-112e3802-94ac-4500-80b8-ae62d8342f7b.png)](https://github.com/ThomasBurleson/elf-angular-movie-search)
+https://user-images.githubusercontent.com/210413/212810796-c4813e12-d2a0-4b4d-8231-1f8907e287c4.png
+
 
 * [Reactive Store with Elf (Angular)](https://github.com/ThomasBurleson/elf-angular-movie-search)
-  > [![](https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png)](https://github.com/ThomasBurleson/elf-angular-movie-search)
-
-* Reactive Store with Zustand (Angular)
-  > ![](https://user-images.githubusercontent.com/210413/210111536-487fce9a-1e12-4ae1-853d-15ad50838515.png)
-
-### 🤝 Recent Projects:
-
-Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
-
-
+* [Reactive Store with Zustand (Angular)](https://github.com/ThomasBurleson/zustand-angular-movie-search)
+* [Reactive Store with Zustand (React)](https://github.com/ThomasBurleson/zustand-react-app-store)
 
 <br/>
 <br/>
@@ -54,6 +47,16 @@ As an Engineering Coach, Thomas has trained Angular and React developers all aro
 [![image](https://user-images.githubusercontent.com/210413/143107279-a8a9a6a5-5566-4d24-8763-d585583421aa.png)](https://user-images.githubusercontent.com/210413/143112944-1f283489-0b40-4b2e-989f-6332ba00672c.png)
 
 
+
+
+<br/>
+<br/>
+
+### 🤝 Recent Projects:
+
+Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
+
+https://user-images.githubusercontent.com/210413/140207173-f79bedd3-9a2e-4f8e-b91d-a85929167493.png
 
 
 <br/>
