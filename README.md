@@ -1,8 +1,9 @@
-Thomas Burleson is a **Principal Architect** and **Engineering Trainer** specializing in _Web_ solutions/technologies. For the last 20 years, he has helped teams around the world develop and deliver **commercial** front-end software solutions. Self-described as a:
+Thomas Burleson is a **Principal Architect** and **Trainer** specializing in _Web_ solutions/technologies. For the last 20 years, he has helped teams around the world develop and deliver **commercial** front-end software solutions. Self-described as a:
 
 * FE Principal Architect... who loves hands-on coding
-* Coach who creates content
-* Mentor who encourages collaboration
+* Technical leader focusing exclusively in FE React, Angular, and NextJS technologies... and GraphQL/REST layers.
+* Technical leader passionate about Reactive Stores and state management.
+* Guide for teams in reducing technical debt and taming the sphagetti-code monster.
 
 Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
 
