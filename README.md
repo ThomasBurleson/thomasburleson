@@ -18,9 +18,11 @@ Thomas brings extensive experience and leadership lessons from projects that inc
 ![](https://user-images.githubusercontent.com/210413/212810796-c4813e12-d2a0-4b4d-8231-1f8907e287c4.png)
 
 
-* [Reactive Store with Elf (Angular)](https://github.com/ThomasBurleson/elf-angular-movie-search)
-* [Reactive Store with Zustand (Angular)](https://github.com/ThomasBurleson/zustand-angular-movie-search)
-* [Reactive Store with Zustand (React)](https://github.com/ThomasBurleson/zustand-react-app-store)
+* [Reactive Store with Elf (Angular)](https://github.com/ThomasBurleson/movie-search-rsm-angular/tree/store-elf-finish)
+* [Reactive Store with Zustand (Angular)](https://github.com/ThomasBurleson/movie-search-rsm-angular/tree/store-zustand-finish)
+* [Reactive Store with Zustand (React)](https://github.com/ThomasBurleson/movie-search-rsm-react/tree/store-finish-zustand)
+* [Reactive Store with Elf (React)](https://github.com/ThomasBurleson/movie-search-rsm-react/tree/store-finish-elf)
+* [Reactive Session with Zustand (React)](https://github.com/ThomasBurleson/app-store-rsm-react)
 
 <br/>
 <br/>
@@ -38,7 +40,10 @@ Explore [technical posts](https://thomasburlesonia.medium.com/list/published-art
 
 This 5-part series for developers and architects called "Reactive Architectures". Presenting web developers with critical concepts, patterns, and techniques for superior product implementation & performance. Best of all, these concepts apply to FrontEnd and Backend development regardless of technology platform.
 
-[![image](https://user-images.githubusercontent.com/210413/143097443-1239e967-977e-4a81-82e8-f16033c73883.png)](https://slides.com/thomasburleson/reactive-solutions-part-1?token=MfaSzCdB)
+[Reactive Solutions - Part 1](https://slides.com/thomasburleson/reactive-architectures-part-1?token=X4_I_GU2)
+[Reactive Solutions - Part 2](https://slides.com/thomasburleson/reactives-solutions-part-2?token=4rIrfRpf)
+
+![image](https://user-images.githubusercontent.com/210413/143097443-1239e967-977e-4a81-82e8-f16033c73883.png)]
 
 <br/>
 <br/>
@@ -48,7 +53,7 @@ This 5-part series for developers and architects called "Reactive Architectures"
 
 As an Engineering Coach, Thomas has trained Angular and React developers all around the world. Workshops consist of live seminars with extensive slides. The seminars are interleaved with guided, hands-on coding labs. Thomas has created more than 60 hours of live workshop content: covering Git Essentials, ES/TypeScript Essentials, Collaborating with Nx Workspaces, Angular/React Jumpstart, RxJS Deep Dives, and NgRx Deep Dive, and more.
 
-[![image](https://user-images.githubusercontent.com/210413/143107279-a8a9a6a5-5566-4d24-8763-d585583421aa.png)](https://user-images.githubusercontent.com/210413/143112944-1f283489-0b40-4b2e-989f-6332ba00672c.png)
+[![image](https://user-images.githubusercontent.com/210413/143107279-a8a9a6a5-5566-4d24-8763-d585583421aa.png)](https://slides.com/thomasburleson/gitops-best-practices?token=3CVU3LTc)
 
 
 <br/>
