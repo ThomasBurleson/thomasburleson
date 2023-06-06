@@ -43,7 +43,7 @@ This 5-part series for developers and architects called "Reactive Architectures"
 [Reactive Solutions - Part 1](https://slides.com/thomasburleson/reactive-architectures-part-1?token=X4_I_GU2)
 [Reactive Solutions - Part 2](https://slides.com/thomasburleson/reactives-solutions-part-2?token=4rIrfRpf)
 
-![image](https://user-images.githubusercontent.com/210413/143097443-1239e967-977e-4a81-82e8-f16033c73883.png)]
+![](https://user-images.githubusercontent.com/210413/143097443-1239e967-977e-4a81-82e8-f16033c73883.png)
 
 <br/>
 <br/>
