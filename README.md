@@ -40,8 +40,8 @@ Explore [technical posts](https://thomasburlesonia.medium.com/list/published-art
 
 This 5-part series for developers and architects called "Reactive Architectures". Presenting web developers with critical concepts, patterns, and techniques for superior product implementation & performance. Best of all, these concepts apply to FrontEnd and Backend development regardless of technology platform.
 
-[Reactive Solutions - Part 1](https://slides.com/thomasburleson/reactive-architectures-part-1?token=X4_I_GU2)
-[Reactive Solutions - Part 2](https://slides.com/thomasburleson/reactives-solutions-part-2?token=4rIrfRpf)
+* [Reactive Solutions - Part 1](https://slides.com/thomasburleson/reactive-architectures-part-1?token=X4_I_GU2)
+* [Reactive Solutions - Part 2](https://slides.com/thomasburleson/reactives-solutions-part-2?token=4rIrfRpf)
 
 ![](https://user-images.githubusercontent.com/210413/143097443-1239e967-977e-4a81-82e8-f16033c73883.png)
 
