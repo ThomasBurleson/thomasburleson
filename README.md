@@ -7,7 +7,8 @@ Thomas Burleson is a **Principal Architect** and **Trainer** specializing in _We
 
 Thomas brings extensive experience and leadership lessons from projects that include JibJab, Sherwin-Williams, SiriusXM, Datasite, SAP, Trademe, Blackrock, Ameriprise Financial Services, and Google.
 
-![image](https://user-images.githubusercontent.com/210413/140211430-c1548335-8cee-4274-a0ef-b3cfae83d536.png)
+![image](https://github.com/ThomasBurleson/thomasburleson/assets/210413/e0c81f16-97d0-4563-95b4-56b6ef9b32dd)
+
 
 
 <br/>
